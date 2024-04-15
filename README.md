@@ -63,21 +63,14 @@ endmodule
 
 
 ```
-## Logic symbol & Truthtable:
-![image](https://github.com/SusithraB/BOOLEAN_FUNCTION_MINIMIZATION/assets/146347839/9179c0bd-fe5b-4db5-a1f0-3575ffed7354)
-
-![image](https://github.com/SusithraB/BOOLEAN_FUNCTION_MINIMIZATION/assets/146347839/58d5f0e5-0864-4fe7-b6e0-6dafc3692fdf)
-
 
 **RTL realization**
 
-![image](https://github.com/SusithraB/BOOLEAN_FUNCTION_MINIMIZATION/assets/146347839/87da947d-c8a0-4a99-b40f-922b269a0724)
+![image](https://github.com/SusithraB/BOOLEAN_FUNCTION_MINIMIZATION/assets/146347839/89e8eadd-7bba-4f32-ad42-4c53ba3cdb35)
 
-![image](https://github.com/SusithraB/BOOLEAN_FUNCTION_MINIMIZATION/assets/146347839/b2c9fbb9-877e-4512-9848-658645efd506)
+**Timing Diagram**
+![image](https://github.com/SusithraB/BOOLEAN_FUNCTION_MINIMIZATION/assets/146347839/ddf81084-6849-4212-bc9c-5f4fe555261f)
 
-
-**Output:**
-![image](https://github.com/SusithraB/BOOLEAN_FUNCTION_MINIMIZATION/assets/146347839/c99265d0-65c1-418d-afeb-19aaf90c93ec)
 
 
 **Result:**
